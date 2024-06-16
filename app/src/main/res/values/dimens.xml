@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="height_for_text_view_100sp">100sp</dimen>
+    <dimen name="text_size_for_buttons_30sp">30sp</dimen>
+    <dimen name="margin_for_button_2dp">2dp</dimen>
+    <dimen name="margin_for_button_hz">5dp</dimen>
+    <dimen name="margin_for_button_vr">2dp</dimen>
+    <dimen name="size_text_view_50sp">50sp</dimen>
+    <dimen name="off_radius_for_buttons">0dp</dimen>
+    <dimen name="size_text_for_buttons">30sp</dimen>
+</resources>
